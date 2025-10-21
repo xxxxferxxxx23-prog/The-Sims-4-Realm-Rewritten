@@ -1,0 +1,13 @@
+<!-- Romance Cutscene Animation Overrides -->
+<ANIM n="magical_romance_kiss">
+  <!-- Override for romantic interactions with magical effects -->
+  <A name="effect_mystical_sparkles" />
+  <A name="sound_magical_chime" />
+</ANIM>
+
+<!-- Another cutscene example -->
+<ANIM n="trial_of_trust_scene">
+  <!-- Scene where Sim casts a trust spell -->
+  <A name="effect_trust_aura" />
+  <A name="animation_magical_handshake" />
+</ANIM>
